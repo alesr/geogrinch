@@ -4,7 +4,7 @@ Geogrinch is a simple program that calculates the variances and F-distributions 
 
 ## Usage
 
-1. Install Go
+1. [Install Go](https://go.dev/doc/install)
 2. Replace the dataset file (.csv)
 3. Run `go run cmd/geogrinch/main.go`
 
